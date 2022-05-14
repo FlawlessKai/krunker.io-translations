@@ -7,7 +7,7 @@ menu.btn.mods Моды
 menu.btn.settings Настройки
 menu.btn.customize Кастомизация
 menu.btn.invite Пригласить
-menu.btn.invite.clicked Скопировано
+menu.btn.invite.clicked Приглашение нажал
 menu.btn.join Присоединиться
 menu.btn.host Создать игру
 menu.btn.browser Серверы
